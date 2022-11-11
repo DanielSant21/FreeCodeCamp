@@ -10,11 +10,11 @@ h1,h2,p {
     width: 80%;
   }
   .flavor{
-    width: 50%;
+    width: 75%;
     text-align: left
   }
   .price{
-    width: 50%;
+    width: 25%;
     text-align: right;
   }
   .item p{
