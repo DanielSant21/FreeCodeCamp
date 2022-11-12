@@ -10,6 +10,7 @@ h1,h2,p {
     width: 80%;
   }
   .flavor{
+    background-color: aliceblue;
     width: 75%;
     text-align: left
   }
